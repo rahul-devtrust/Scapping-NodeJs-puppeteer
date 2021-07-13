@@ -1,0 +1,718 @@
+[
+  {
+    name: 'Palak Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '11',
+    content: 'Guess The Movie Name ?  #hollywood #hollywoodstreet #hollywoodstars #hollywoodghost #hollywoodcelebrities #hollywoodactors #hollywoodactress #hollywoodlover #hollywoodmovie #movies #hollywoodghostmovie #ghost',
+    comments_share: '3 comments'
+  },
+  {
+    name: 'Palak Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '12',
+    content: 'What Shampoo do you used Guyzz ?#bollywoodgali #bollywood #hollywood #bollywoodmemes #memes #hollywoodstreet #funnymemes #celebrities #bollywoodfunnymemmes #hollywoodfunnymemes #bollywoodlover',
+    comments_share: ''
+  },
+  {
+    name: 'Palak Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '12',
+    content: 'What Shampoo do you used Guyzz ?#bollywoodgali #bollywood #hollywood #bollywoodmemes #memes #hollywoodstreet #funnymemes #celebrities #bollywoodfunnymemmes #hollywoodfunnymemes #bollywoodlover',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 56th Birthday to Brooke Shields!Actress who starred in the films Blue Lagoon and Endless Love in the early 1980s. Her television credits include Law & O… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Palak Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '6',
+    content: 'India has....? Tell me guyzz#hollywoodstreet #hollywood #hollywoodstars #hollywoodlovers #hollywoodcelebrities #hollywoodactress #emmawatson #galgadot #salenagomez #bollywood #bollywoodgali #bollywoodcelebrities #bollywoodactress #bollywoodlover',
+    comments_share: ''
+  },
+  {
+    name: 'Palak Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '10',
+    content: 'Guess The Movie Name ? #hollywood #hollywoodstreet #hollywoodcelebrities #hollywoodlovers #hollywoodstars #hollywoodmovies #hollywoodactor #entertainment #moviestars',
+    comments_share: '5 comments'
+  },
+  {
+    name: 'Abhishek Nanayakkara',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'What do you know about Beautiful & talented actress Jennifer Lawrence Read More http://bit.ly/3vqNay9..… See more',
+    comments_share: ''
+  },
+  {
+    name: '',
+    gorup_name: '',
+    like: '10K',
+    content: 'Call me when u want #explore #viral #trend #trending #mood #hot #sexy #vibes #act #acting #love #callme #song #hollywood #khwahishgal #khwahish_gal',
+    comments_share: '681 comments418 shares'
+  },
+  {
+    name: 'Jonathan Hauff',
+    gorup_name: 'Emma Watson Celebration',
+    like: '7.8K',
+    content: 'Emma Watson -- candid: out and about in New York City, May 29, 2017. Thanks to our Divya Sing for the post suggestion! https://www.facebook.com/groups/236133926908808/?ref=share <--JOIN US! VHQ FB maximum size 1681x2048.#EmmaWatson #celebrity #stars #hollywood #star #Celebs',
+    comments_share: '24 comments38 shares'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 84th Birthday to Morgan Freeman!Won an Academy Award for Best Supporting Actor for his role in the Clint Eastwood film 
+Million Dollar Baby in 2005. He i… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Lorena William',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '14',
+    content: 'Hollywood Streets provides personal information of All Hollywood Actors. For check Download this App- https://play.google.com/store/apps/details...… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 60th Birthday to Lea Thompson!Back to the Future fans came to know her for playing Lorraine McFly. She also played a role in Jaws 3-D and became known t… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Anamika Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '19',
+    content: 'Which one is your favourite web series?#riverdale #mirjapur #bollywoodwebseries #hollywoodwebseries #bollywoodgali #hollywoodstreet #bollywoodlovers #hollywood #webseries — with Manvi Jain and 4 others.',
+    comments_share: '3 comments'
+  },
+  {
+    name: 'Anamika Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '13',
+    content: 'React your favourite Hollywood character. Mine is Ironman #hollywood #hollywoodlovers #hollywoodstreet #hollywoodcelebrities',
+    comments_share: ''
+  },
+  {
+    name: 'Anamika Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '13',
+    content: 'React your favourite Hollywood character. Mine is Ironman #hollywood #hollywoodlovers #hollywoodstreet #hollywoodcelebrities',
+    comments_share: ''
+  },
+  {
+    name: 'Anamika Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '13',
+    content: 'https://www.ndtv.com/.../chris-hemsworth-s-son-wants-to...#hollywood #hollywoodnews #hollywoodcelebrities #hollywwoodlovers #hollywoodstreet #news #hollywoodstars',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Remembering Cameron Boyce (May 28, 1999 – July 6, 2019) on his birth anniversary today!Actor and dancer who had his breakthrough roles as a child actor in Gro… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Lorena William',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '17',
+    content: "Download this app. Its really good to know about Hollywood Celebrities Personal Information and Their HD Photos. Know their birthday's and more information in this app.",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Remembering Dixie Carter (May 25, 1939 – April 10, 2010) on her birth anniversary today!American television actress best known for her role as Gloria Hodge, O… See more',
+    comments_share: '1 comment'
+  },
+  {
+    name: 'Anamika Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '12',
+    content: 'Finally Prabhas coming in hollywood. So exciting.. https://www.instagram.com/p/CPVHXuGhRjC/...#bollywood #bollywoodnews #bollywoodstars #bollywoodentertainment #bollywoodcelebrities #news #bollywoodcelebritiesnews #hollywood #hollywoodnews #hollywoodcelebritiesnews #hollywoodstars #bollywoodgali #hollywoodstreet #hollywoodentertainmentnews #hollywoodlovers #bollywoodlovers',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 49th Birthday to Chiara Mastroianni!French actress known for her roles in such films as My Favorite Season, The Letter, and Saint-Amour. She played th… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Lorena William',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '15',
+    content: 'Know the career details of "Daniel Radcliffe". He was born on 23 July 1989. He started his career as an actor. Check more details about him with Hollywood Stree… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '12',
+    content: `Remembering Andre the Giant (19 May 1946 – 27 January 1993) on his birth anniversary today!Wrestling icon who stood 7'4" and 
+weighed in at 525 lbs, and was in… See more`,
+    comments_share: ''
+  },
+  {
+    name: 'Anamika Jain',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '12',
+    content: 'https://www.pinkvilla.com/.../hocus-pocus-2-bette-midler...#hollywood #hollywoodnews #hollywoodstreet #hollywoodlovers #hollywoodcelebrities #hollywoodmovie',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: "Happy 78th Birthday to Gary Burghoff! Best known for his role as Radar O'Reilly from the M*A*S*H movie and TV series.He was involved with acting and drummin… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Kusum Tomar',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '10',
+    content: 'A Saturday night is the perfect time to enjoy horror movies ',
+    comments_share: ''
+  },
+  {
+    name: 'Kusum Tomar',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '10',
+    content: 'A Saturday night is the perfect time to enjoy horror movies ',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '12',
+    content: `Remembering Andre the Giant (19 May 1946 – 27 January 1993) on his birth anniversary today!Wrestling icon who stood 7'4" and 
+weighed in at 525 lbs, and was in… See more`,
+    comments_share: ''
+  },
+  {
+    name: 'Lorena William',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '17',
+    content: 'List of Hollywood Celebrities who Born in May. If you want to check any celebrities birth date you can check in this Hollywood Street App.Download this App- ht… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: "Happy 78th Birthday to Gary Burghoff! Best known for his role as Radar O'Reilly from the M*A*S*H movie and TV series.He was involved with acting and drummin… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 46th Birthday to Mel B!English pop singer who performed with the Spice Girls under the stage name Scary Spice. She pursued a solo career before the Spic… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Happy 33rd Birthday to Adele!Popular singer who became a mainstream success at nineteen when she released the four-times Platinum-selling album 19 and won the… See more',
+    comments_share: '2 comments'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Remembering Mel Blanc (May 30, 1908 – July 10, 1989) on his birth anniversary today!Voice actor who brought life to lovable characters such as Bugs Bunny, Por… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Jonathan Hauff',
+    gorup_name: 'Emma Watson Celebration',
+    like: '6.9K',
+    content: 'Emma Watson -- VOGUE UK September 2015 by Josh Olins. Thanks to our Divya Sing for the post suggestion!https://www.facebook.com/groups/236133926908808/?ref=share <--JOIN US! VHQ FB Maximum size. For UHQ 2311x3709 version, click the link, not the photo: https://www.wykop.pl/.../comment...#EmmaWatson #josholins #VogueUK #celebrity #celebs #stars #star #hollywood',
+    comments_share: '35 comments62 shares'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 36th Birthday to Carey Mulligan!Actress known for her starring roles in The Great Gatsby, Drive, and Never Let Me Go. She received a BAFTA Award for her… See more',
+    comments_share: '1 share'
+  },
+  {
+    name: 'Lorena William',
+    gorup_name: 'Bollywood and Hollywood Celebrity Lovers',
+    like: '13',
+    content: '',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 77th Birthday to Gladys Knight!Known as Empress of Soul, Knight gained fame with Gladys Knight & the Pips, who released hits like "I Heard It Through th… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: "Remembering James Arness (May 26, 1923 – June 3, 2011) on his birth anniversary today!Portrayed the role of Marshall Dillon on TV's Gunsmoke for twenty years,… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 36th Birthday to Carey Mulligan!Actress known for her starring roles in The Great Gatsby, Drive, and Never Let Me Go. She received a BAFTA Award for her… See more',
+    comments_share: '1 share'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 77th Birthday to Gladys Knight!Known as Empress of Soul, Knight gained fame with Gladys Knight & the Pips, who released hits like "I Heard It Through th… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: "Remembering James Arness (May 26, 1923 – June 3, 2011) on his birth anniversary today!Portrayed the role of Marshall Dillon on TV's Gunsmoke for twenty years,… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 50th Birthday to Idina Menzel! Actress who originated the roles of Maureen in Rent and Elphaba in Wicked. For the latter performance, she received a 200… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 83rd Birthday to Tommy Chong! 1960s humorist known for working with his comedy partner Cheech Marin. He made cameo appearances in Scarface: The World is… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Happy 69th Birthday to Mr. T (Lawrence Tureaud) Born Laurence Tureaud, he became known as a "tough-guy" star on The A-Team, as boxer Clubber Lang in Rocky III… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: 'Happy 76th Birthday to John Fogerty!Singer and guitarist for Creedence Clearwater Revival, best known for hits such as "Fortunate Son" and "Have You Ever Seen… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Happy 77th Birthday to Patti LaBelle! Disco diva who gained fame for iconic songs such as "Lady Marmalade" and "New Attitude," which became a #1 hit on the Ho… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Remembering Meredith MacRae (May 30, 1944 – July 14, 2000) on her birth anniversary today! Actress who appeared on My Three Sons and Petticoat Junction. She a… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 66th Birthday to Rosanne Cash!Singer-songwriter and daughter of Johnny Cash who sang "Seven Year Ache."She started out 
+as a wardrobe assistant on her … See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 58th Birthday to Mike Myers!Comedian, actor, singer and screenwriter who won Four American Comedy Awards for Austin Powers: The Spy Who Shagged Me and A… See more',
+    comments_share: '1 share'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Remembering Marcheline Bertrand (May 9, 1950 – January 27, 2007) on her birth anniversary today!Remembered best as the mother of Hollywood A-List actress Ange… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Jonathan Hauff',
+    gorup_name: 'Emma Watson Celebration',
+    like: '1.5K',
+    content: "Emma Watson -- at Paris Fashion Week 'Yves Saint Laurent' Show, 2008. Thanks to our Divya Sing for the post suggestion!https://www.facebook.com/groups/236133926908808/?ref=share <--JOIN US! VHQ FB maximum size.For UHQ version 2592x3888 (too big for FB) click the link not the photo: https://emma-watson.3dn.ru/_ph/27/776719505.jpg… See more",
+    comments_share: '30 comments21 shares'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Remembering Meredith MacRae (May 30, 1944 – July 14, 2000) on her birth anniversary today! Actress who appeared on My Three Sons and Petticoat Junction. She a… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 66th Birthday to Rosanne Cash!Singer-songwriter and daughter of Johnny Cash who sang "Seven Year Ache."She started out 
+as a wardrobe assistant on her … See more',
+    comments_share: ''
+  },
+  {
+    name: 'Jonathan Hauff',
+    gorup_name: 'Emma Watson Celebration',
+    like: '2.3K',
+    content: 'Emma Watson -- Winner, British Fashion Awards 2014. https://www.facebook.com/groups/236133926908808/?ref=share <--JOIN US! VHQ FB maximum size 1435x2048.For UHQ version 1983x2830 (too big for FB) click the link not the photo:  https://preview.redd.it/o8cmjin8dau41.jpg?auto=webp...… See more',
+    comments_share: '41 comments41 shares'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 58th Birthday to Mike Myers!Comedian, actor, singer and screenwriter who won Four American Comedy Awards for Austin Powers: The Spy Who Shagged Me and A… See more',
+    comments_share: '1 share'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Remembering Marcheline Bertrand (May 9, 1950 – January 27, 2007) on her birth anniversary today!Remembered best as the mother of Hollywood A-List actress Ange… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Happy 71st Birthday to Stevie Wonder!Motown prodigy and multi-instrumentalist who broke the record for Grammy Awards held by 
+a solo artist with twenty-two tit… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '6',
+    content: 'Happy 47th Birthday to Jewel!Singer-songwriter who has been nominated for seven Grammy Awards and was first celebrated for her single "Who Will Save Your Soul… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Jonathan Hauff',
+    gorup_name: 'Emma Watson Celebration',
+    like: '1.8K',
+    content: 'Emma Watson -- 2009 Elle Girl Magazine Photoshoot by Lorenzo Agius. Thanks to our Sameh Fahmy for the post suggestion!https://www.facebook.com/groups/236133926908808/?ref=share <--JOIN US! VHQ FB maximum size.For UHQ version 2000x3000 (too big for FB) click the link not the photo: https://i.imgur.com/YTJeiid.jpg… See more',
+    comments_share: '33 comments39 shares'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 63rd Birthday to Drew Carey! Comedian who starred on Whose Line is it Anyway? and The Drew Carey Show. He replaced Bob 
+Barker as the host of The Price I… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: 'Happy 69th Birthday to Robert Zemeckis!Acclaimed film director and screenwriter whose best known films include Who Framed Roger Rabbit, Forrest Gump, Cast Awa… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 46th Birthday to Ms. Lauryn Hill!Singer who has been a member of the Fugees and who won a Grammy Award for Best New Artist in 1998. She released the hit… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Jonathan Hauff',
+    gorup_name: 'Emma Watson Celebration',
+    like: '1.1K',
+    content: 'Emma Watson -- Vogue Italia photoshoot, September 2008 by Mark Seliger. Thanks to our Divya Sing for the post suggestion! #EmmaWatson #VogueItalia https://www.facebook.com/groups/236133926908808/?ref=share <--JOIN US VHQ FB maximum size. For UHQ version 3143x2394 
+(too big for FB) click the photo: http://sf.co.ua/14/06/wallpaper-139768.jpg#MarkSeliger #celebrity #stars #hollywood #star #celebs',      
+    comments_share: '12 comments17 shares'
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: "Happy 80th Birthday to Bob Dylan! Legendary singer-songwriter who revolutionized folk music in the 1960's with albums such as The Freewheelin' Bob Dylan, High… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 57th Birthday to Lenny Kravitz!Funk and rock artist who won the Grammy Award for Best Male Rock Vocal Performance four 
+straight years from 1999 to 2002.… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '7',
+    content: "Remembering Cory Monteith (May 11, 1982 – July 13, 2013) on his birth anniversary today!Had a recurring role in ABC Family's 
+Kyle XY, but is best known for hi… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 48th Birthday to Sasha Alexander!American television actress who became known for her roles on the series NCIS and Rizzoli & Isles, the latter earning h… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '6',
+    content: "Happy 88th Birthday to Joan Collins DBE! English actress who played Alexis Carrington on TV's Dynasty, which was the most popular series in the United States … See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '6',
+    content: "Happy 88th Birthday to Joan Collins DBE! English actress who played Alexis Carrington on TV's Dynasty, which was the most popular series in the United States … See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 52nd Birthday to Anne Heche!Actress whose best known films include Volcano, John Q, I Know What You Did Last Summer and Six Days Seven Nights.She rece… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: 'Happy 55th Birthday to Mindy Cohn!Achieved fame for portraying Natalie Green on The Facts of Life and for providing the voice of Velma Dinkley in Scooby-Doo.… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 61st Birthday to Doug Jones!Known for his contortionist abilities, which landed him roles as gruesome characters such as the faun and the pale man in th… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 59th Birthday to Bobcat Goldthwait!Actor and comedian known for his iconic high-pitched, gruff voice and his role as Zed in the Police Academy films. He… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 62nd Birthday to Bronson Pinchot!#HappyBirthday #BronsonPinchot #Actor #PerfectStrangers #RiskyBusiness #BeverlyHillsCop #TrueRomance #BeverlyHillsCopII… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 61st Birthday to Doug Jones!Known for his contortionist abilities, which landed him roles as gruesome characters such as the faun and the pale man in th… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 59th Birthday to Bobcat Goldthwait!Actor and comedian known for his iconic high-pitched, gruff voice and his role as Zed in the Police Academy films. He… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 62nd Birthday to Bronson Pinchot!#HappyBirthday #BronsonPinchot #Actor #PerfectStrangers #RiskyBusiness #BeverlyHillsCop #TrueRomance #BeverlyHillsCopII… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: 'Remembering Bobby Darin (May 14, 1936 – December 20, 1973) on his birth anniversary today!Pop vocalist who released the hits 
+"Mack the Knife," "Dream Lover," … See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 72nd Birthday to Pam Grier!American actress best known for starring in several blaxploitation films, as well as for her performance as Kit Porter in six… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: "Happy 69th Birthday to Frances Fisher!Actress who famously played Kate Winslet's mother, Ruth, in the 1997 classic Titanic. Her many other film credits includ… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 62nd Birthday to Nick Cassavetes! Directed the romantic film The Notebook starring Ryan Gosling.He was the son of director John Cassavetes.… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Happy 57th Birthday to Mélissa Gilbert!Actress who won multiple Young Artist Awards for her portrayal of Laura Ingalls on the television series Little House o… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '6',
+    content: 'Happy 55th Birthday to Janet Jackson!Pop singer who gained attention with her fifth album Janet and who became one of the most successful pop artists in histo… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Remembering Sir Roger Moore (14 October 1927 – 23 May 2017) on his death anniversary!He replaced Sean Connery as James Bond in 1973 and won a Monte Carlo TV F… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 53rd Birthday to Timothy Olyphant!Actor best known for his law enforcing roles as Marshall Raylan Givens in the hit FX 
+series, Justified and Sheriff Set… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: 'Remembering Bea Arthur (May 13, 1922 – April 25, 2009)  on her birth anniversary today!Deep-voiced star of Maude, which ran from 1972 to 1978. She also starre… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 53rd Birthday to Timothy Olyphant!Actor best known for his law enforcing roles as Marshall Raylan Givens in the hit FX 
+series, Justified and Sheriff Set… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: 'Remembering Bea Arthur (May 13, 1922 – April 25, 2009)  on her birth anniversary today!Deep-voiced star of Maude, which ran from 1972 to 1978. She also starre… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Remembering Katharine Hepburn (May 12, 1907 – June 29, 2003) on her birth anniversary today!Named the greatest actress in Hollywood history by the American Fi… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Happy 49th Birthday to Rhea Seehorn!Television & film actress best known for her role as Kim Wexler on the AMC series Better 
+Call Saul. She is also notable fo… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 73rd Birthday to Grace Jones!Actress, model, and singer who released "Pull Up to the Bumper," which reached #2 on the U.S. Dance Chart and other singles… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: "Happy 48th Birthday to Tori Spelling!Aaron Spelling's daughter who starred as Donna on the television series Beverly Hills, 90210. She was nominated for a Sat… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: "Happy 48th Birthday to Tori Spelling!Aaron Spelling's daughter who starred as Donna on the television series Beverly Hills, 90210. She was nominated for a Sat… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '3',
+    content: 'Happy 60th Birthday to Mary Elizabeth McDonough!American actress who played the role of Erin Walton in the television series 
+The Waltons from 1971 until 1981.… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '4',
+    content: 'Happy 77th Birthday to Danny Trejo!Mexican-American film and voice actor who became known for his roles in the 2007 action film Grindhouse, the 1996 film From… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '6',
+    content: 'Remembering Don Rickles (May 8, 1926 – April 6, 2017) on his birth anniversary today!Legendary insult comedian who was a frequent guest on The Tonight Show St… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: 'Happy 50th Birthday to Sofia Coppola!American director and screenwriter known for her Academy Award-winning screenplay for Lost in Translation. She also direc… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '5',
+    content: "Remembering Kevin Peter Hall (May 9, 1955 – April 10, 1991) on his birth anniversary today!7'2' actor who played the titular 
+character in Predator opposite Ar… See more",
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '2',
+    content: 'Happy 68th Birthday to Alfred Molina! He became known for his roles in Spider-Man 2 and Raiders of the Lost Ark. His other films include Steamboy, Maverick, S… See more',
+    comments_share: ''
+  },
+  {
+    name: 'Ammar Alavi',
+    gorup_name: 'Hollywood',
+    like: '6',
+    content: 'Happy 38th Birthday to Henry Cavill!Popular actor best known for his role as Superman in several of the DC films, including Man of Steel and Justice League. O… See more',
+    comments_share: ''
+  }
+]
